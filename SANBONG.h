@@ -2,7 +2,7 @@
 #define SANBONG_H
 
 #include <string>
-
+hi
 class SanBong {
 public:
     enum TinhTrang { TRONG, DA_DAT };
